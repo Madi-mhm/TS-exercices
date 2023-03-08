@@ -1,0 +1,25 @@
+Exercice 1
+
+=> Prennez le ticket de loterie de client.
+=> Sacnnez le ticket avec la machine.
+=> Si le chiffre était entre 1 et 5, dites au client au'il a gagné, sinon dites qu'il a perdu. 
+=> Si le client a perdu, proposez le à rejouer. 
+
+
+Exercic 2
+
+=> Prenez et scanner chaque produit du client.
+=> Trouvez les prix des produits.
+=> Aditionner les prix des produit. (total + produit = total => total + produit = total) 
+=> Trouvez le chiffre total et le divisez par 5.
+=> Ecrivez "TVA = le resultat de la division"
+
+
+Exercic 3
+
+=> const organism: string = "Simplon";
+// const learners: number = 15;
+// const promotionStarted: boolean = true;
+// const learnerNames: array<string> = ["Vincent", "Toufik", "Tom", "Samuel", "Orhan"]
+// const pedagogicalReferent: Object = { name: "Tiphaine", work: "Simplon" }
+// const absentLearner: undefined = undefined

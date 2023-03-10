@@ -4,7 +4,7 @@
 //         if(data[i].length <= 5){
 //             console.log(data[i])
 //         }
-//     }
+// }
 
 
 // // Exercice # 2
